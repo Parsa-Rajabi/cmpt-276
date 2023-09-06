@@ -4,12 +4,12 @@
 | Sha Hu; TA               | sh-a         | TBA    | hushah [at] sfu [dot] ca         | TBD         | TBA
 | Shubham Bhatia; TA       | sh-ub-ham    | TBA    | shubham_bhatia [at] sfu [dot] ca | TBD         | TBA
 
-This term we will be using a [Slack](https://cmpt276-fall2023.slack.com) for all class discussions, including assignment clarifications! Please join the Slack workspace using your SFU email address. If you have not received an invitation to the workspace, please email the instructor with the following email header: `[CMPT 276 - Slack Invitation]`.
+This term we will be using a [Slack](https://cmpt276-fall2023.slack.com) for all class discussions, including assignment clarifications! Please join the Slack workspace using your SFU email address. If you have not received an invitation to the workspace, please email the instructor with the following email header: _[CMPT 276 - Slack Invitation]_.
 
 When sending emails, do the following:
 
 - Use your SFU email
-- In the subject line, begin with "CMPT 276:" and then the topic of your message. For example, CMPT 276 D100: Missed Assignment 1.
+- In the subject line, begin with "CMPT 276:" and then the topic of your message. For example, CMPT 276: Missed Assignment 1.
 - In the body of your message, include:
     - Your full name
     - Your SFU ID (typically your last name or initials with some numbers at the back)
