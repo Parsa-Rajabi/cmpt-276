@@ -1,10 +1,10 @@
-| Team Member | Pronounce as   | Slack | Email | Office Hour |
-|-------------|----------------|---------|-------------|
-| Parsa Rajabi; Instructor | pa-r-sa  | @parsa | parsa_r `[at]` sfu `[dot]` ca | TBD         |
-| Sha Hu; TA               | sh-a  | TBA | hushah `[at]` sfu `[dot]` ca                | TBD         |
-| Shubham Bhatia; TA | pa-r-sa  | sh-ub-ham | shubham_bhatia `[at]` sfu `[dot]` ca | TBD         |
+| **Team Member**          | **Pronounce as** |  **Slack**  | **Email**                   | **Office Hour** | **Location** |
+| ------------------------ | ------------ | ------ | ------------------------------------ | ---------------- |----------- |
+| Parsa Rajabi; Instructor | pa-r-sa      | @parsa | parsa_r `[at]` sfu `[dot]` ca        | TBD         | SYRE 5127 |
+| Sha Hu; TA               | sh-a         | TBA    | hushah `[at]` sfu `[dot]` ca         | TBD         | TBA
+| Shubham Bhatia; TA       | sh-ub-ham    | TBA    | shubham_bhatia `[at]` sfu `[dot]` ca | TBD         | TBA
 
-This term we will be using a [Slack](https://cmpt276-fall2023.slack.com) for all class discussions, including assignment clarifications!
+This term we will be using a [Slack](https://cmpt276-fall2023.slack.com) for all class discussions, including assignment clarifications! Please join the Slack workspace using your SFU email address. If you have not received an invitation to the workspace, please email the instructor with the following email header: `[CMPT 276 - Slack Invitation]`.
 
 When sending emails, do the following:
 
