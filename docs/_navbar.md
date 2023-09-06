@@ -1,1 +1,4 @@
-<!-- * [Contact](teaching-team) -->
+- [Syllabus](syllabus)
+- [Teaching Team](teaching-team)
+- [Lecture Notes](lecture-notes)
+- [Feedback](feedback)
