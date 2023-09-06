@@ -24,14 +24,9 @@ Delivery Method: In Person
 
 **Name:** Parsa Rajabi
 
-**Email:** parsa_r `[at]` sfu `[dot]` ca (replace `[at]` with `@` and `[dot]` with `.`)
-Note: When emailing, please put CMPT 276 at the start of your subject line.
-
-**Slack:** @parsa
-
 **Office:** SYRC 5127
 
-**Mode of Delivery:** In-person
+Please refer to [teaching team](./teaching-team.md) for how to contact the teaching team.
 
 ## Course Description
 
@@ -75,6 +70,10 @@ Students must attain an overall passing grade on the weighted average of exams i
 
 ## Course and SFU Policies
 
+### Late Policy and Missed Items
+
+All course elements (including but limited to) assignments, quizzes, labs, midterm and project are required to be submitted or completed by the specified due dates. Inability to adhere to these deadlines will lead to a score of zero, unless exceptional situations are considered on an individual basis, subject to the approval of the instructor and supported by legitimate documentation. Refer to accommodations and concessions section below for more details.
+
 ### Assignment/Project/Lab Policy
 
 - You may not send the instructor or the TAs draft assignments/project/labs for feedback – post all questions to Slack so that everyone can benefit from the answers
@@ -90,7 +89,7 @@ If you feel a course item has been significantly incorrectly assessed you may re
 3. Schedule a meeting with the TA to discuss the feedback and marking.
 4. If you still feel the marking is incorrect, you may request a re-marking.
 
-### Request a Remarking
+#### Request a Remarking
 
 Requests must include a written case for the re-marking and be submitted to Parsa within 3 days from receiving the mark.
 
@@ -98,15 +97,15 @@ The item will be re-marked in their entirety by both Parsa and the marking TA an
 
 Each student may submit one remarking request for the term.
 
-## SFU Student Code of Conduct
+### SFU Student Code of Conduct
 
 The [S 10.05 Student Conduct Policy](https://www.sfu.ca/students/studentconduct/policy.html) defines students' basic responsibilities as academic community members, defines inappropriate student conduct, and provides procedures and outcomes to be invoked if students engage in such behaviour.
 
-## SFU Academic Integrity
+### SFU Academic Integrity
 
 The [S10.01 Student Academic Integrity Policy](https://www.sfu.ca/policies/gazette/student/s10-01.html) is based on the six core values of honesty, trust, fairness, respect, responsibility, and courage. It is expected that all students abide by this policy for this and all courses at SFU. Want to learn more about Academic Integrity at SFU? Visit the [SFU Academic Integrity Tutorial](https://canvas.sfu.ca/courses/56136).
 
-## Accommodations and Concessions
+### Accommodations and Concessions
 
 Accommodations and Concessions are two different things.
 
@@ -116,11 +115,11 @@ Concession refers to special arrangement (usually one-time) due to unexpected si
 
 If you believe you are entitled for a concession, **contact the instructor first**. Whether the request is granted or not is subject to the SFU and FAS Faculty policies and regulations, **and also to the instructor's discretion**. Requests must be submitted before the due date of the activities in question or as soon as the situation permits. Refer to [this Academic Concessions article](https://www.sfu.ca/students/academic-success/academic-concessions.html) for details.
 
-## Additional Student Support
+### Additional Student Support
 
 A variety of student well-being resources are available through [SFU Student Services Health and Counselling](http://www.sfu.ca/students/health/). In addition to utilizing these, please feel free to contact me with regards to course-specific issues of concern.
 
-## SFU COVID-19 Protocols (last update 4 Jan, 2023)
+### SFU COVID-19 Protocols (last update 4 Jan, 2023)
 
 Based on the Order of the Provincial Health Officer, SFU has suggested a few guidelines for teaching activities. Here are some of the important ones:
 
