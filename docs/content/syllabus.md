@@ -3,7 +3,9 @@
 ![](../images/sfu-logo.png)
 # Course Syllabus
 
+
 ## Oh hey, nice to see you here 👋🏼
+
 
 Below is the official SFU-mandated Course Syllabus for CMPT 276.
 Additional details about the course are available on the [course website](https://canvas.sfu.ca/courses/79650).
