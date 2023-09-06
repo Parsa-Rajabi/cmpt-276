@@ -292,10 +292,11 @@
             } else {
               url = gitLinkRepoURL + '/blob/main/docs/' + vm.route.file
             }
-            var editHtml = '[:memo:' + editThisPageLinkText + '](' + url + ')\n'
+            // var editHtml = '[:memo:' + editThisPageLinkText + '](' + url + ')\n'
 
             if ((!(getURLParameterByName('hidegitlink'))) && (!!gitLinkRepoURL)) {
-              return html + '<br />' + '\n\n' + editHtml
+              // return html + '<br />' + '\n\n' + editHtml
+              return html
             } else {
               return html
             }
