@@ -1,15 +1,14 @@
 <!-- ![](../images/header.jpg) -->
 
-<!-- ![](../images/UBCO_CMPS_header.jpg) -->
-
-**Department of Computing Science**
-
-# Course Syllabus (Official)
+![](../images/sfu-logo.png)
+# Course Syllabus
 
 ## Oh hey, nice to see you here 👋🏼
 
 Below is the official SFU-mandated Course Syllabus for CMPT 276.
 Additional details about the course are available on the [course website](https://canvas.sfu.ca/courses/79650).
+
+**Department of Computing Science**
 
 **Fall 2023 - CMPT 276 (D300)**
 **Introduction to Software Engineering (3)**
@@ -26,7 +25,6 @@ Delivery Method: In Person
 **Name:** Parsa Rajabi
 
 **Email:** parsa_r `[at]` sfu `[dot]` ca (replace `[at]` with `@` and `[dot]` with `.`)
-
 Note: When emailing, please put CMPT 276 at the start of your subject line.
 
 **Slack:** @parsa
@@ -43,7 +41,7 @@ You will find all the important term dates in the [SFU Academic Calendar](https:
 
 ## Topics
 
-The topics for this course are: 
+The topics for this course are:
 
 - Software Process: software life cycle, Agile vs traditional development methods.
 - Apply agile methods: manage uncertainty and respond to change throughout the SDLC
@@ -60,7 +58,7 @@ Software Engineering, Ian Sommerville, Addison Wesley, 2015, 9780133943030, 10th
 
 ## Course Evaluation
 
-The grading scheme for this course is: 
+The grading scheme for this course is:
 
 |      **Item**      | **Weight** |
 |:------------------:|:----------:|
@@ -75,18 +73,63 @@ The grading scheme for this course is:
 
 Students must attain an overall passing grade on the weighted average of exams in the course in order to obtain a clear pass (C- or better).
 
-## Late Policy and Missed Assignments and Exams
+## Course and SFU Policies
 
-Deadlines in this course have a generous no-penalty {{ GRACE_PERIOD }} grace period so late submissions are not generally accepted.
-Missed Tests and Exams will be given a score of 0 unless prior arrangements are made with the course instructor.
-To contact the instructor for this course, use {{ FORUM_LINK }}.
-Details on deadlines and other course policies can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
+### Assignment/Project/Lab Policy
 
-## Tentative Course Schedule
-The tentative course schedule, subject to change, can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
+- You may not send the instructor or the TAs draft assignments/project/labs for feedback – post all questions to Slack so that everyone can benefit from the answers
+- Assignments/labs/projects may be shared/shown in class and online (with no student name/ID)
+- Deferrals or extensions will be determined on a case-by-case basis, where a legitimate reason can be determined (e.g. illness, family emergency, etc.) [FAS Academic Concession [Applied Sciences] form](https://coursys.sfu.ca/forms/apsc-fas-academic-concession/).
 
-```{include} syllabus_bits/schedule.md
-```
+### Remarking Policy
 
-```{include} syllabus_bits/policies.md
-```
+If you feel a course item has been significantly incorrectly assessed you may request a re-marking. Howver, before you do make such request, please follow the steps below:
+
+1. Review the marking rubric and ensure you understand the marking scheme.
+2. Review the marking comments and ensure you understand the feedback.
+3. Schedule a meeting with the TA to discuss the feedback and marking.
+4. If you still feel the marking is incorrect, you may request a re-marking.
+
+### Request a Remarking
+
+Requests must include a written case for the re-marking and be submitted to Parsa within 3 days from receiving the mark.
+
+The item will be re-marked in their entirety by both Parsa and the marking TA and may result in a higher, unchanged, or lower mark overall which will be final. You should exercise caution in submitting a remark request purely on the hope of getting a minor grade bump as this often does not work out the way a student hopes for.
+
+Each student may submit one remarking request for the term.
+
+## SFU Student Code of Conduct
+
+The [S 10.05 Student Conduct Policy](https://www.sfu.ca/students/studentconduct/policy.html) defines students' basic responsibilities as academic community members, defines inappropriate student conduct, and provides procedures and outcomes to be invoked if students engage in such behaviour.
+
+## SFU Academic Integrity
+
+The [S10.01 Student Academic Integrity Policy](https://www.sfu.ca/policies/gazette/student/s10-01.html) is based on the six core values of honesty, trust, fairness, respect, responsibility, and courage. It is expected that all students abide by this policy for this and all courses at SFU. Want to learn more about Academic Integrity at SFU? Visit the [SFU Academic Integrity Tutorial](https://canvas.sfu.ca/courses/56136).
+
+## Accommodations and Concessions
+
+Accommodations and Concessions are two different things.
+
+Accommodation refers to special arrangement of learning due to known and documented conditions (e.g., extra time during an exam due to a medical documented medical and/or learning situation). If you believe you are legally entitled for an accommodation, consult with [FAS Advising](https://www.sfu.ca/fas/current-student/advising.html), [Centre for Accessibility Learning](https://www.sfu.ca/students/accessible-learning.html), [Health and Counselling](https://www.sfu.ca/students/health/), and/or the [Human Rights Office](http://www.sfu.ca/humanrights.html).
+
+Concession refers to special arrangement (usually one-time) due to unexpected situations or circumstances preventing students from participating in course-related activities (e.g., changing weights of graded activities due to missing a deadline because of illness). Typically a doctor's note is required to justify a concession, however, this academic year SFU and the FAS faculty have indicated that a [self-declaration form](https://www.sfu.ca/content/dam/sfu/students/academicsuccess/academicconcessions/2021%20SFU_AcademicConcession_SelfDeclarationForm.pdf) would be sufficient for minor absences (1-5 days). 
+
+If you believe you are entitled for a concession, **contact the instructor first**. Whether the request is granted or not is subject to the SFU and FAS Faculty policies and regulations, **and also to the instructor's discretion**. Requests must be submitted before the due date of the activities in question or as soon as the situation permits. Refer to [this Academic Concessions article](https://www.sfu.ca/students/academic-success/academic-concessions.html) for details.
+
+## Additional Student Support
+
+A variety of student well-being resources are available through [SFU Student Services Health and Counselling](http://www.sfu.ca/students/health/). In addition to utilizing these, please feel free to contact me with regards to course-specific issues of concern.
+
+## SFU COVID-19 Protocols (last update 4 Jan, 2023)
+
+Based on the Order of the Provincial Health Officer, SFU has suggested a few guidelines for teaching activities. Here are some of the important ones:
+
+- Marks are no longer required and will be a personal choice. If you forget your mask and want one, disposable masks are available from Student Central in Burnaby and at the information desks in Vancouver and Surrey.
+- You are encouraged to get vaccinated. There are vaccination clinics on both Burnaby and Surrey campuses.
+- Stay home, get tested, and notify the instructor if you feel sick or are experiencing COVID-19-like symptoms -- we'll work it out.
+- Be respectful to others. People have different comfort levels and are going through things at their own pace. You never know what someone else is dealing with.
+- For more details refer to [SFU FAS COVID-19 Protocols](https://www.sfu.ca/fas/safety/cdp.html#:~:text=Illness%20and%20Academic%20Concessions,recommended%20by%20the%20BC%20CDC.).
+
+### About This Site
+
+This site was building using [Docsify Open MultiCourse Starter Kit](https://paulhibbitts.github.io/cmpt-363/#/222/home) which is designed and built by Paul Hibbitts (Email: [paul@hibbittsdesign.org](mailto:paul@hibbittsdesign.org), Twitter: [@hibbittsdesign](https://twitter.com/hibbittsdesign)).
