@@ -26,7 +26,7 @@ Delivery Method: In Person
 
 **Office:** SYRC 5127
 
-Please refer to [teaching team](./teaching-team.md) for how to contact the teaching team.
+Please refer to [teaching team](teaching-team.md) for how to contact the teaching team.
 
 ## Course Description
 
