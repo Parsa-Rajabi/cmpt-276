@@ -1,1 +1,1 @@
-* [Contact](content/teaching-team)
+<!-- * [Contact](teaching-team) -->
