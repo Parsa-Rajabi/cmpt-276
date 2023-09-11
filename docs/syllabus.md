@@ -84,7 +84,7 @@ All course elements (including but limited to) assignments, quizzes, labs, midte
 
 ### Remarking Policy
 
-If you feel a course item has been significantly incorrectly assessed you may request a re-marking. Howver, before you do make such request, please follow the steps below:
+If you feel a course item has been significantly incorrectly assessed you may request a re-marking. However, before you do make such request, please follow the steps below:
 
 1. Review the marking rubric and ensure you understand the marking scheme.
 2. Review the marking comments and ensure you understand the feedback.
@@ -93,9 +93,9 @@ If you feel a course item has been significantly incorrectly assessed you may re
 
 #### Request a Remarking
 
-Requests must include a written case for the re-marking and be submitted to Parsa within 3 days from receiving the mark.
+Requests must include a written case for the re-marking and be submitted to the course instructor within 2 days from receiving the mark.
 
-The item will be re-marked in their entirety by both Parsa and the marking TA and may result in a higher, unchanged, or lower mark overall which will be final. You should exercise caution in submitting a remark request purely on the hope of getting a minor grade bump as this often does not work out the way a student hopes for.
+The item will be re-marked in their entirety by both the course instructor and the marking TA and may result in a higher, unchanged, or lower mark overall which will be final. You should exercise caution in submitting a remark request purely on the hope of getting a minor grade bump as this often does not work out the way a student hopes for.
 
 Each student may submit one remarking request for the term.
 
