@@ -109,6 +109,8 @@ The [S10.01 Student Academic Integrity Policy](https://www.sfu.ca/policies/gazet
 
 ### Accommodations and Concessions
 
+Simon Fraser University acknowledges and affirms the rights of students with disabilities to have equal access to the university and to be welcomed as fully participating members of the university community. The [Centre for Accessibility Learning (CAL)](https://www.sfu.ca/students/accessible-learning.html) provides support and advocacy for students with disabilities. Their primary responsibility is determining reasonable academic accommodations for students with documented disabilities. 
+
 Accommodations and Concessions are two different things.
 
 Accommodation refers to special arrangement of learning due to known and documented conditions (e.g., extra time during an exam due to a medical documented medical and/or learning situation). If you believe you are legally entitled for an accommodation, consult with [FAS Advising](https://www.sfu.ca/fas/current-student/advising.html), [Centre for Accessibility Learning](https://www.sfu.ca/students/accessible-learning.html), [Health and Counselling](https://www.sfu.ca/students/health/), and/or the [Human Rights Office](http://www.sfu.ca/humanrights.html).
@@ -120,6 +122,15 @@ If you believe you are entitled for a concession, **contact the instructor first
 ### Additional Student Support
 
 A variety of student well-being resources are available through [SFU Student Services Health and Counselling](http://www.sfu.ca/students/health/). In addition to utilizing these, please feel free to contact me with regards to course-specific issues of concern.
+
+We all experience stress and well-being differently. It’s part of being human. Sometimes
+the challenges will be manageable and other times they may seem overwhelming. Please
+connect with me or use the resources available to you at SFU to support you and take
+care of your mental health and well-being or keep these in mind for a peer or friend.
+
+- Explore [different options for support](http://www.sfu.ca/students/health/get-support.html) to see what may work for you
+- [Resources to support individual and collective identities](http://www.sfu.ca/students/health/resources/identity.html) are available
+- Learn more about [My SSP for 24/7 mental health support](http://www.sfu.ca/students/health/get-support/my-ssp.html) for SFU and FIC students worldwide
 
 ### SFU COVID-19 Protocols (last update 4 Jan, 2023)
 
