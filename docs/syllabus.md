@@ -1,4 +1,4 @@
-![sfu-logo](../images/sfu-logo.png)
+![sfu-logo](images/sfu-logo.png)
 
 # Course Syllabus
 
