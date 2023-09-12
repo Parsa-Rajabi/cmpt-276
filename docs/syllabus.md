@@ -1,25 +1,21 @@
-<!-- ![](../images/header.jpg) -->
+![sfu-logo](../images/sfu-logo.png)
 
-![](../images/sfu-logo.png)
 # Course Syllabus
 
-
 ## Oh hey, nice to see you here 👋🏼
-
 
 Below is the official SFU-mandated Course Syllabus for CMPT 276.
 Additional details about the course are available on the [course website](https://canvas.sfu.ca/courses/79650).
 
 **Department of Computing Science**
 
-**Fall 2023 - CMPT 276 (D300)**
-**Introduction to Software Engineering (3)**
+**Fall 2023 - CMPT 276 (D300)** || **Introduction to Software Engineering (3)**
 
 Class Number: 6209
 Delivery Method: In Person
 
-**Mondays 8:30-10:20 AM - SYRE 3016 (Surrey)**
-**Wednesdays 8:30-9:20 AM - SYRE 3016 (Surrey)**
+- **Mondays 8:30-10:20 AM - SYRE 3016 (Surrey)**
+- **Wednesdays 8:30-9:20 AM - SYRE 3016 (Surrey)**
 
 ---
 ## Course Instructor
