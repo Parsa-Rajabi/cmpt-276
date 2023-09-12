@@ -25,5 +25,5 @@ This page contains a list of resources that you may find useful throughout the c
 
 ## Textbooks
 
-- Software Engineering: A Practitioner's Approach, 8th Edition, by Roger S. Pressman and Bruce R. Maxim. McGraw-Hill, 2015. `ISBN: 978-0078022128`.
-- Software Engineering Ian Sommerville, 10th Edition, 2015. `ISBN: 978-0133943030`.
+- Software Engineering: A Practitioner's Approach, 8th Edition, by Roger S. Pressman and Bruce R. Maxim. McGraw-Hill, 2015. ISBN: 978-0078022128
+- Software Engineering Ian Sommerville, 10th Edition, 2015. ISBN: 978-0133943030

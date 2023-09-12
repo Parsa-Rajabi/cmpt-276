@@ -1,4 +1,6 @@
 - [Syllabus](syllabus)
+- [Course Schedule](schedule)
 - [Teaching Team](teaching-team)
 - [Lecture Notes](lecture-notes)
+- [Resources](resources)
 - [Feedback](feedback)
