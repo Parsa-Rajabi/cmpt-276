@@ -4,9 +4,6 @@
 # Course Syllabus
 
 
-## Oh hey, nice to see you here 👋🏼
-
-
 Below is the official SFU-mandated Course Syllabus for CMPT 276.
 Additional details about the course are available on the [course website](https://canvas.sfu.ca/courses/79650).
 
@@ -28,7 +25,14 @@ Delivery Method: In Person
 
 **Office:** SYRC 5127
 
-Please refer to [teaching team](teaching-team.md) for how to contact the teaching team.
+**Email:** parsa_r [at] sfu [dot] ca
+
+## Teaching Assistants
+
+| **Team Member**          | **Pronounce as** | **Email**                   | **Office Hour** | **Location** |
+| ------------------------ | ------------ | ------------------------------------ | ---------------- |----------- |
+| Sha Hu; TA               | sh-a         | hushah [at] sfu [dot] ca         | TBD         | TBA
+| Shubham Bhatia; TA       | shoe-b-ham   | shubham_bhatia [at] sfu [dot] ca | TBD         | TBA
 
 ## Course Description
 
@@ -48,6 +52,26 @@ The topics for this course are:
 - Implementation: coding style, code review, pair programming
 - Quality assurance: unit & integration testing
 - Plan short development cycles, and operate effective teams
+
+## Tentative Course Schedule
+
+This the tentative schedule for the course. The schedule is subject to change. Please check lecture notes for updates.
+
+| **Week #** |              **Topic**              | **Quiz** | **Lab** | **Assignment** |    **Project**   |
+|:----------:|:-----------------------------------:|:--------:|:-------:|:--------------:|:----------------:|
+|      1     |           Intro / Syllabus          |          |         |                |                  |
+|      2     |             Git / Github            |          |         |                |                  |
+|      3     |                 SDLC                |          |  Lab 1  |       A1       |                  |
+|      4     |          Project Management         |  Quiz 1  |  Lab 2  |       A2       |                  |
+|      5     |       Application Architecture      |          |  Lab 3  |                | Project Proposal |
+|      6     |          Application Design         |          |  Lab 4  |                |                  |
+|      7     |         Midterm (tentative)         |          |         |                |                  |
+|      8     | Continuous Integration + Deployment |          |  Lab 5  |       A3       |                  |
+|      9     |       Project Presentation #1       |          |  Lab 6  |                |     Report #1    |
+|     10     |      Code Testing + Frameworks      |          |  Lab 7  |       A4       |                  |
+|     11     |          Code Documentation         |  Quiz 2  |  Lab 8  |                |                  |
+|     12     |     Guest Speaker(s) [tentative]    |          |  Lab 9  |                |                  |
+|     13     |       Project Presentation #2       |          |         |                |     Report #2    |
 
 ## Required Materials
 
@@ -123,7 +147,10 @@ If you believe you are entitled for a concession, **contact the instructor first
 
 A variety of student well-being resources are available through [SFU Student Services Health and Counselling](http://www.sfu.ca/students/health/). In addition to utilizing these, please feel free to contact me with regards to course-specific issues of concern.
 
-We all experience stress and well-being differently. It’s part of being human. Sometimes the challenges will be manageable and other times they may seem overwhelming. Please connect with me or use the resources available to you at SFU to support you and take care of your mental health and well-being or keep these in mind for a peer or friend.
+We all experience stress and well-being differently. It’s part of being human. Sometimes
+the challenges will be manageable and other times they may seem overwhelming. Please
+connect with me or use the resources available to you at SFU to support you and take
+care of your mental health and well-being or keep these in mind for a peer or friend.
 
 - Explore [different options for support](http://www.sfu.ca/students/health/get-support.html) to see what may work for you
 - [Resources to support individual and collective identities](http://www.sfu.ca/students/health/resources/identity.html) are available
