@@ -19,7 +19,7 @@ Once you click the link, a repository will automatically be created for you with
 |:-------:|:--------:|:-----------------------------------------------------------------------------------------------:|
 |  Lab 1  | Sept. 20  |                [Accept Lab on Github]()                 |
 
-## Submission 
+## Submission
 
 ### Canvas
 
@@ -47,7 +47,8 @@ Here are some instructions on how to start working on assignments/labs that are 
 
 ### Working with Git
 
-1. Add file: `git add filename.format` (git add example.txt)
+1. Add file: `git add filename.format`
+        e.g. `git add example.txt` (to add a text file named example)
     1b. You can commit all files in your directory by using either:
      - `git add .`
      - `git add -A`
