@@ -137,4 +137,4 @@ Based on the Order of the Provincial Health Officer, SFU has suggested a few gui
 
 ### About This Site
 
-This site was building using [Docsify Open MultiCourse Starter Kit](https://paulhibbitts.github.io/cmpt-363/#/222/home) which is designed and built by Paul Hibbitts (Email: [paul@hibbittsdesign.org](mailto:paul@hibbittsdesign.org), Twitter: [@hibbittsdesign](https://twitter.com/hibbittsdesign)).
+This site was build using [Docsify Open MultiCourse Starter Kit](https://paulhibbitts.github.io/cmpt-363/#/222/home) which is designed and developed by Paul Hibbitts (Email: [paul@hibbittsdesign.org](mailto:paul@hibbittsdesign.org), Twitter: [@hibbittsdesign](https://twitter.com/hibbittsdesign)).
