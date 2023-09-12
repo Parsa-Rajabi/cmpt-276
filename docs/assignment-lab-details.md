@@ -6,12 +6,11 @@ Once you click the link, a repository will automatically be created for you with
 
 ## Assignments
 
-| Assignment |    Due Date     |      Link to Accept     |
-|:----------:|:---------------:|:-----------------------:|
-|     A1     |     Sept. 18     | [Accept A1 on Github]() |
-|     A2     |    Sept. 25      | Link available after A1 deadline |
-|     A3     |     TBA     |  |
-|     A4     |     TBA     |  |
+| Assignment | Due Date |          Link to Accept          |
+| :--------: | :------: | :------------------------------: |
+|     A1     | Sept. 18 |     [Accept A1 on Github]()      |
+|     A2     | Sept. 25 | Link available after A1 deadline |
+|     A3     |   TBA    |                                  |
 
 ## Labs
 
