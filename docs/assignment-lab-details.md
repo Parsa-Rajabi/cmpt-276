@@ -52,9 +52,9 @@ Here are some instructions on how to start working on assignments/labs that are 
   - `git commit -m "Insert your commit message here i.e. Updated file X"`
   - You can commit changes to your repository **as many times as you like before the deadline** (any commits after the deadline will be ignored)
 - Step 7: Pushing the changes above
-  - `git push` 
+  - `git push`
 - Step 8: Copy your repository link and submit the link to [Canvas assignment](https://canvas.sfu.ca/courses/79650/assignments). After the deadline, we will begin marking submitted assignments.
-    - The link will look something like this: `https://github.com/cmpt-276-fall-2023/cmpt-276-assignment-#-[YOUR GITHUB USERNAME]` for example, for A1, it will be `https://github.com/cmpt-276-fall-2023/cmpt-276-assignment-1-Parsa-Rajabi`
+  - The link will look something like this: `https://github.com/cmpt-276-fall-2023/cmpt-276-assignment-#-[YOUR GITHUB USERNAME]` for example, for A1, it will be `https://github.com/cmpt-276-fall-2023/cmpt-276-assignment-1-Parsa-Rajabi`
 
 ### Working with Git
 
