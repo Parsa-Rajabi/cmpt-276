@@ -10,7 +10,7 @@ This the tentative schedule for all course assignments and labs, which is subjec
 
 | Assignment | Due Date |     Link to Accept      |
 | :--------: | :------: | :---------------------: |
-|     A1     | Sept. 19 | [Accept A1 on Github]() |
+|     A1     | Sept. 19 | [Accept A1 on Github](https://classroom.github.com/a/2d3oYpD) |
 |     A2     | Sept. 26 |                         |
 |     -      |    -     |            -            |
 |     A3     | Oct. 24  |                         |
