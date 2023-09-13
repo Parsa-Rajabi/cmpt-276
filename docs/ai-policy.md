@@ -1,4 +1,4 @@
-# CMPT 276: AI-course Policy
+# AI-usage Course Policy
 
 ### Changelog
 
