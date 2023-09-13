@@ -14,7 +14,7 @@ This page contains a list of resources that you may find useful throughout the c
 
 ## Web Development
 
-### Online Tutorial
+### Online Tutorials
 
 - [W3Schools](https://www.w3schools.com/)
 - MDN Web Docs (by Mozilla): [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS), [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
