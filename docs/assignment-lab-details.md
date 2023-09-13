@@ -8,15 +8,15 @@ Once you click the link, a repository will automatically be created for you with
 
 | Assignment | Due Date |          Link to Accept          |
 | :--------: | :------: | :------------------------------: |
-|     A1     | Sept. 18 |     [Accept A1 on Github]()      |
-|     A2     | Sept. 25 | Link available after A1 deadline |
+|     A1     | Sept. 19 |     [Accept A1 on Github]()      |
+|     A2     | Sept. 26 | Link available after A1 deadline |
 |     A3     |   TBA    |                                  |
 
 ## Labs
 
 |   Labs  | Due Date |                                              Link                                               |
 |:-------:|:--------:|:-----------------------------------------------------------------------------------------------:|
-|  Lab 1  | Sept. 20  |                [Accept Lab on Github]()                 |
+|  Lab 1  | Sept. 21  |                [Accept Lab on Github]()                 |
 
 ## Submission
 
