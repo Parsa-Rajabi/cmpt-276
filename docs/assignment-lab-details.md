@@ -5,6 +5,7 @@ We are using GitHub Classroom to deliver the assignment and labs for this course
 Once you click the link, a repository will automatically be created for you with instructions. You can then work on the assignments and labs, make commits, and push them to GitHub as often as you please. Once the deadline has passed, you will no longer be able to push any changes.
 
 This the tentative schedule for all course assignments and labs, which is subject to change without notice. Please check on a regular basis for the most up-to-date schedule.
+
 ## Assignments
 
 | Assignment | Due Date |     Link to Accept      |
