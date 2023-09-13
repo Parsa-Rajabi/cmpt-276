@@ -5,6 +5,12 @@ This page contains a list of resources that you may find useful throughout the c
 ## Git/Github
 
 - [Hello World tutorial](https://docs.github.com/en/get-started/quickstart/hello-world)
+- [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
+- [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
+- [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+- [How to use GitHub branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
+- [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
+- [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## Web Development
 
