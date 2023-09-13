@@ -20,6 +20,7 @@ This page contains a list of resources that you may find useful throughout the c
 - MDN Web Docs (by Mozilla): [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS), [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [freeCodeCamp](https://www.freecodecamp.org/learn/)
 - [CodeAcademy](https://www.codecademy.com/catalog/subject/web-development)
+- [Github Intro to Web Development](https://education.github.com/experiences/intro_to_web_dev)
 
 ### Video Courses
 
