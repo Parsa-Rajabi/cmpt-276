@@ -10,6 +10,7 @@ Put your custom CSS in this file.
 
 body .markdown-section {
     font-family: "Lato Extended","Lato","Helvetica Neue",Arial,sans-serif;
+    /* font-family: "SFMono-Regular", "Menlo", "Consolas,Monaco", "Liberation Mono" , "Lucida Console", "monospace"; */
     line-height: 1.4;
     font-size: 16px;
 }
@@ -56,7 +57,7 @@ body .markdown-section {
 
 @media (prefers-color-scheme: dark) {
 :root {
-/*
+
     --link-color: #EA7688!important;
     --link-text-decoration: none!important;
     --link-text-decoration--hover: underline!important;
@@ -81,7 +82,7 @@ body .markdown-section {
     --pagination-title-color: #EA7688!important;
     }
 }
-*/
+
 
 /* Link colors to match visual styling of Moodle LMS (uncomment to use) */
 /*
@@ -146,8 +147,8 @@ body .markdown-section {
     --blockquote-border-color: #0B1660!important;
     
     --pagination-title-color: #0B1660!important;
-}
-*/
+} */
+
 
 /* CSS to better visually match Docsify pages within Sakai LMS (uncomment to use) */
 /*
