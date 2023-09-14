@@ -21,7 +21,7 @@ This the tentative schedule for all course assignments and labs, which is subjec
 
 | Labs  | Due Date |           Link           |
 | :---: | :------: | :----------------------: |
-| Lab 1 | Sept. 21 | [Accept Lab on Github]() |
+| Lab 1 | Sept. 21 | [Accept Lab on Github](https://classroom.github.com/a/i0Z2nu-q) |
 | Lab 2 | Sept. 28 |                          |
 | Lab 3 |  Oct. 5  |                          |
 | Lab 4 | Oct. 12  |                          |
