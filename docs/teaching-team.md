@@ -1,8 +1,8 @@
-| **Team Member**          | **Pronounce as** |  **Slack**  | **Email**                   | **Office Hour** | **Location** |
-| ------------------------ | ------------ | ------ | ------------------------------------ | ---------------- |----------- |
-| Parsa Rajabi; Instructor | pa-r-sa      | @parsa | parsa_r [at] sfu [dot] ca        | TBD         | SYRE 5127 |
-| Sha Hu; TA               | sh-a         | TBA    | hushah [at] sfu [dot] ca         | TBD         | TBA
-| Shubham Bhatia; TA       | shoe-b-ham    | TBA    | shubham_bhatia [at] sfu [dot] ca | TBD         | TBA
+| **Team Member**          | **Pronounce as** | **Slack** | **Email**                        | **Office Hour (PST)**           | **Location** | **Zoom Details** |
+| ------------------------ | ---------------- | --------- | -------------------------------- | ------------------------- | ------------ | ---------------- |
+| Parsa Rajabi; Instructor | pa-r-sa          | @parsa    | parsa_r [at] sfu [dot] ca        | Mondays, 11:30-12:30      | SYRE 5127    | -              |
+| Sha Hu; TA               | sh-a             | @sha hu   | hushah [at] sfu [dot] ca         | Thursdays, 12:30-1:30 | [Zoom](https://sfu.zoom.us/j/86371767803?pwd=anlvMEo4OUoyd050QzJONWtjMXVydz09)         |   Meeting ID: `863 717 67803`; Password: `276276`               |
+| Shubham Bhatia; TA       | shoe-b-ham       | @shubham  | shubham_bhatia [at] sfu [dot] ca | Wednesdays, 12-1      | [Zoom](https://sfu.zoom.us/j/8507866599?pwd=ajJrUDVOaEJEY2hXMXdQMVhyeTg5Zz09)         |   Meeting ID: `850 786 6599`; Password: `276276`               |
 
 This term we will be using a [Slack](https://cmpt276-fall2023.slack.com) for all class discussions, including assignment clarifications! Please join the Slack workspace using your SFU email address. If you have not received an invitation to the workspace, please email the instructor with the following email header: _[CMPT 276 - Slack Invitation]_.
 
