@@ -8,20 +8,20 @@ This the tentative schedule for all course assignments and labs, which is subjec
 
 ## Assignments
 
-| Assignment | Due Date |     Link to Accept      |
-| :--------: | :------: | :---------------------: |
+| Assignment | Due Date |                         Link to Accept                         |
+| :--------: | :------: | :------------------------------------------------------------: |
 |     A0     | Sept. 13 | [Accept A0 on Github](https://classroom.github.com/a/aQf6DGDr) |
 |     A1     | Sept. 19 | [Accept A1 on Github](https://classroom.github.com/a/2d3oYpDa) |
-|     A2     | Sept. 26 |                         |
-|     -      |    -     |            -            |
-|     A3     | Oct. 24  |                         |
-|     A4     |  Nov. 7  |                         |
+|     A2     |  Oct. 3  |                                                                |
+|     -      |    -     |                               -                                |
+|     A3     | Oct. 24  |                                                                |
+|     A4     |  Nov. 7  |                                                                |
 
 ## Labs
 
 | Labs  | Due Date |           Link           |
 | :---: | :------: | :----------------------: |
-| Lab 1 | Sept. 21 | [Accept Lab on Github](https://classroom.github.com/a/i0Z2nu-q) |
+| Lab 1 | Sept. 21 | [Accept L1 on Github](https://classroom.github.com/a/i0Z2nu-q) |
 | Lab 2 | Sept. 28 |                          |
 | Lab 3 |  Oct. 5  |                          |
 | Lab 4 | Oct. 12  |                          |
