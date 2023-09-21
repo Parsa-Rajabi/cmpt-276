@@ -6,7 +6,7 @@ Once you click the link, a repository will automatically be created for you with
 
 This the tentative schedule for all course assignments and labs, which is subject to change without notice. Please check on a regular basis for the most up-to-date schedule.
 
-## Assignments
+  ## Assignments
 
 | Assignment | Due Date |                         Link to Accept                         |
 | :--------: | :------: | :------------------------------------------------------------: |
@@ -19,18 +19,19 @@ This the tentative schedule for all course assignments and labs, which is subjec
 
 ## Labs
 
-| Labs  | Due Date |           Link           |
-| :---: | :------: | :----------------------: |
+
+| Labs  | Due Date |                              Link                              |
+| :---: | :------: | :------------------------------------------------------------: |
 | Lab 1 | Sept. 21 | [Accept L1 on Github](https://classroom.github.com/a/i0Z2nu-q) |
-| Lab 2 | Sept. 28 |                          |
-| Lab 3 |  Oct. 5  |                          |
-| Lab 4 | Oct. 12  |                          |
-|   -   |    -     |            -             |
-| Lab 5 | Oct. 26  |                          |
-| Lab 6 |  Nov. 2  |                          |
-| Lab 7 |  Nov. 9  |                          |
-| Lab 8 | Nov. 16  |                          |
-| Lab 9 | Nov. 23  |                          |
+| Lab 2 | Sept. 28 | [Accept L2 on Github](https://classroom.github.com/a/DocP1R7u) |                         
+| Lab 3 |  Oct. 5  |                                                                |
+| Lab 4 | Oct. 12  |                                                                |
+|   -   |    -     |                               -                                |
+| Lab 5 | Oct. 26  |                                                                |
+| Lab 6 |  Nov. 2  |                                                                |
+| Lab 7 |  Nov. 9  |                                                                |
+| Lab 8 | Nov. 16  |                                                                |
+| Lab 9 | Nov. 23  |                                                                |
 
 ## Submission
 
