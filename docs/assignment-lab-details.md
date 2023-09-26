@@ -16,7 +16,7 @@ This the tentative schedule for all course assignments and labs, which is subjec
 |     -      |    -     |                               -                                |
 |     A3     | Oct. 24  |                                                                |
 |     A4     |  Nov. 7  |                                                                |
-https://classroom.github.com/a/ro6jLVJG
+
 ## Labs
 
 
