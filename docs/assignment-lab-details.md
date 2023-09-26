@@ -12,11 +12,11 @@ This the tentative schedule for all course assignments and labs, which is subjec
 | :--------: | :------: | :------------------------------------------------------------: |
 |     A0     | Sept. 13 | [Accept A0 on Github](https://classroom.github.com/a/aQf6DGDr) |
 |     A1     | Sept. 19 | [Accept A1 on Github](https://classroom.github.com/a/2d3oYpDa) |
-|     A2     |  Oct. 3  |                                                                |
+|     A2     |  Oct. 3  | [Accept A2 on Github](https://classroom.github.com/a/ro6jLVJG) |
 |     -      |    -     |                               -                                |
 |     A3     | Oct. 24  |                                                                |
 |     A4     |  Nov. 7  |                                                                |
-
+https://classroom.github.com/a/ro6jLVJG
 ## Labs
 
 
