@@ -67,11 +67,12 @@ The project must be developed using a web application framework. Here are some e
 
 There will be opportunities for groups to receive bonus throughout the project. This list will be updated as the project progresses. Note that the max grade for the project is 100%
 
-- `+5 Bonus Marks` For groups focusing their project on the AI-Education area. Before pursuing this topic, ensure you receive approval from the instructor to earn these marks.
+- `+5 Bonus Marks` For groups focusing their project on the AI-Education area
   - Projects in this area include tools or platforms that use AI to enhance the teaching and learning experience for students and instructors. Projects can be focused on (but not limited to) the following:
     - AI-based learning platforms/simulations
     - AI-based teaching tools
     - AI-based research tools
+    Note: The teaching team will have the final say on whether a project is eligible for this bonus.
 
 ### Planning
 
