@@ -34,3 +34,27 @@ This page contains a list of resources that you may find useful throughout the c
 
 - Software Engineering: A Practitioner's Approach, 8th Edition, by Roger S. Pressman and Bruce R. Maxim. McGraw-Hill, 2015. ISBN: 978-0078022128
 - Software Engineering Ian Sommerville, 10th Edition, 2015. ISBN: 978-0133943030
+
+## Project 
+
+### React
+
+- [React Hello World](https://reactjs.org/docs/hello-world.html)
+- [Learn How to Build Tic-Tac-Toe with React Hooks](https://www.freecodecamp.org/news/learn-how-to-build-tic-tac-toe-with-react-hooks/)
+- [Get Started With React.js. A Beginner's Introduction](https://medium.com/easyread/how-to-get-started-with-react-js-805bf57826ad)
+- [React Crash Course for Beginners](https://youtu.be/Dorf8i6lCuk)
+
+### Other
+
+- [What is a tech stack?](https://heap.io/topics/what-is-a-tech-stack)
+- [What is an API?](https://www.ibm.com/cloud/learn/api)
+- [A collective list of free APIs for use in software and web development](https://github.com/public-apis/public-apis)
+- [CI/CD and DevOps](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
+- [What is CI/CD?](https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html)
+- [What is software development?](https://www.atlassian.com/software-development)
+- [Modern Web Application Frameworks](https://hackr.io/blog/web-development-frameworks) (no back-end is required for this project)
+- [What is a WBS?](https://www.workbreakdownstructure.com/)
+- [What is a Data Flow Diagram?](https://www.lucidchart.com/pages/data-flow-diagram)
+- [What is a User Story?](https://www.atlassian.com/agile/project-management/user-stories)
+- [What is a wireframe?](https://www.lucidchart.com/pages/wireframes)
+- [What is a prototype?](https://www.interaction-design.org/literature/topics/prototyping)

@@ -4,6 +4,7 @@
 - [Teaching Team](teaching-team)
 - [Lecture Notes](lecture-notes)
 - [Assignments & Labs](assignment-lab-details)
+- [Project](project)
 - [Resources](resources)
 - [Feedback](feedback)
 <!-- - **LMS Links**
