@@ -72,7 +72,7 @@ There will be opportunities for groups to receive bonus throughout the project. 
     - AI-based learning platforms/simulations
     - AI-based teaching tools
     - AI-based research tools
-    Note: The teaching team will have the final say on whether a project is eligible for this bonus.
+    - Note: The teaching team will have the final say on whether a project is eligible for this bonus.
 
 ### Planning
 
