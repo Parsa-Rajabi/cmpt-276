@@ -119,13 +119,13 @@ Between the milestones, each team will be required to do a check-in with their a
 
 ### Schedule
 
-|             Project Element              |     Due Date     |
-| :--------------------------------------: | :--------------: |
-|             Groups Assigned              | Thursday, Oct 19 |
-| Project Report and Video Presentation #1 |  Friday, Nov 3   |
-|             Project Check-in             |       TBA        |
-|         In-class Presentation #2         |       TBA        |
-|            Project Report #2             |      Dec 5       |
+|             Project Element              |       Due Date        |
+| :--------------------------------------: | :-------------------: |
+|             Groups Assigned              |   Thursday, Oct 19    |
+| Project Report and Video Presentation #1 |     Friday, Nov 3     |
+|             Project Check-in             |       Nov 15-17       |
+|         In-class Presentation #2         | Nov 27, Nov 29, Dec 4 |
+|            Project Report #2             |         Dec 5         |
 
 ### Group Project Expectations
 
