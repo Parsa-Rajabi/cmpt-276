@@ -119,11 +119,12 @@ Between the milestones, each team will be required to do a check-in with their a
 
 ### Schedule
 
-|             Project Element              |       Due Date        |
+|             Project Element              |  Due Date (11:59pm)   |
 | :--------------------------------------: | :-------------------: |
 |             Groups Assigned              |   Thursday, Oct 19    |
 | Project Report and Video Presentation #1 |     Friday, Nov 3     |
 |             Project Check-in             |       Nov 15-17       |
+|          Presentation #2 Slides          |        Nov 26         |
 |         In-class Presentation #2         | Nov 27, Nov 29, Dec 4 |
 |            Project Report #2             |         Dec 5         |
 
