@@ -17,7 +17,7 @@ _Note: All lecture slides are password protected. Visit Canvas to get the passwo
 |    7[A]    |  Oct 16  |       -        | - |
 |    7[B]    |  Oct 18  |       -        | - |
 |    8[A]    |  Oct 23  |       Application Design        | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiUjcways3anZZem0rcXRlQlNScWJlaEZiVHMwSE10VXlyL0k0VmVtOEFNeHp3cnNac0hlbi82Q2pQNW5qQnJQNTltVWNvb1J5cDlxRDdyMjg4dmZpc0tjOU5kYURlM0pJMEdTYUIzTHhMWGdLS211OTRXVE5vZjh2eHlxS0Yxb0ZBMlZkNHFsTE9jYy93N1k4RkRHaFJmcDFMYW89IiwicyI6Ii82bTJQa3dINHl3RE15czJnK3k3Rnc9PSIsImkiOiJGdjRINVpsR0wwVjhxQ1lHIn0=) |
-|    8[B]    |  Oct 25  |       Application Architecture        | [Slides](https://jstrieb.github.io/link-lock/#yJ2IjoiMC4wLjEiLCJlIjoiaWZ5TXVjc1FYZUhzbDFCUG1WS2o3cGJPenZWNVFOa3J1NHZKUS81Y3hzZ0xsb1lzVjJIN1NkUXhoanVVbWZTSEJhL3NIRG9qSjdpOHI2d3p6by94UTZNOTN4Z1FIM3dSajYzdklQTEEyRnVEVklGd3ZPQnRPc28yNXB5bko5MHZ0Q0pCOEcvRzlvaXFTd3NSZFkvTlVyTHp0T289IiwicyI6Ik5pK0I4K3JRRXN4VVpaT3JES2VIaFE9PSIsImkiOiJDVkd1b2w1TnZsMWZmZmhqIn0=) |
+|    8[B]    |  Oct 25  |       Application Architecture        | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiaWZ5TXVjc1FYZUhzbDFCUG1WS2o3cGJPenZWNVFOa3J1NHZKUS81Y3hzZ0xsb1lzVjJIN1NkUXhoanVVbWZTSEJhL3NIRG9qSjdpOHI2d3p6by94UTZNOTN4Z1FIM3dSajYzdklQTEEyRnVEVklGd3ZPQnRPc28yNXB5bko5MHZ0Q0pCOEcvRzlvaXFTd3NSZFkvTlVyTHp0T289IiwicyI6Ik5pK0I4K3JRRXN4VVpaT3JES2VIaFE9PSIsImkiOiJDVkd1b2w1TnZsMWZmZmhqIn0=) |
 |    9[A]    |  Oct 30  |       Midterm        | - |
 |    9[B]    |  Nov 1  |       CI/CD        | Slides |
 <!-- add e to # -->
