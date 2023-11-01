@@ -11,7 +11,7 @@ _Note: All lecture slides are password protected. Visit Canvas to get the passwo
 |    3[B]    |  Sept 20  | Software Development Life Cycle - P2 | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoibXpwaWF4bHJrWmJnQ1BZNWZsV1I4MTVuQm9FWEdrakE2ZGl4UHI3RTNZOU4xTVRxbWlwaTlKbkE4NGpsSm44VmhVYjVYYW1VdmlQMHp1T25RcktRcXQxUERVbjBvcSt1MXlEbDRLV2RZNlFBMTR4WjFqeGhsL0ZFSjFGTHpQbUpacURRc1FBV2dWdmZ3Y3h0SnlRL1lsYldoZTQ9IiwicyI6InJBVy9BR0tLbVRwSWlPWm83OWhHN3c9PSIsImkiOiJiSUFNaWtQRklzZU9nazhPIn0=) |
 |    4[A]    |  Sept 25  |       Project Management - P1        | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiVklnamZHNC9XS3lrenJnbXV6TXBPOS9HblpzQVgreHBBdUJiR2w2VGt3UkFuOCsxbHQ2TmpWWTBaT24yRnZNN29SSlAra1RJUE9DMm1HYkVQVWdzRFN1eGNFMlUwSytKSkpWZXgyam5lTXErbUg4Ym94b25WUmpadlVyTFJVVDRLOWJla21KYTdwb0tWRkEvU1lTVlkzMVdGRlk9IiwicyI6InpzK1ZZVEg3T2xoV1F1a1E0MzAyWXc9PSIsImkiOiJXTkVmVG14VndCbEljQmgzIn0=) |
 |    4[B]    |  Sept 27  |       Project Management - P2        | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiWGNOaXlMZzluem9xYTBvMzJ5WVN4T2s0UE9UTkJJWklBWXhFUXFxNWhDUS9QRVE2YU1FeWJKblVLeFlqU3BpTldGVFI0UENaYzhmVHJ6MC9Md2RGRlcvZEFKa0Jjd3lSWFBPekNDVTdJQmYraitiTVQwQktYUnBudlJtYXR2c200eDlCOW9LeTZGNUtUR3Y1VmY1aUt1Nk9wSDg9IiwicyI6IktsRWU1V2dkN2pqSW9BcDFISkhqaGc9PSIsImkiOiJWQ1dkdmFiUUNxajNTQnBhIn0=) |
-|    5[A]    |  Oct 4  |       -        | - |
+|    5[A]    |  Oct 4   |       -        | - |
 |    6[A]    |  Oct 10  |       -        | - |
 |    6[B]    |  Oct 11  |       -        | - |
 |    7[A]    |  Oct 16  |       -        | - |
@@ -19,5 +19,13 @@ _Note: All lecture slides are password protected. Visit Canvas to get the passwo
 |    8[A]    |  Oct 23  |       Application Design        | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiUjcways3anZZem0rcXRlQlNScWJlaEZiVHMwSE10VXlyL0k0VmVtOEFNeHp3cnNac0hlbi82Q2pQNW5qQnJQNTltVWNvb1J5cDlxRDdyMjg4dmZpc0tjOU5kYURlM0pJMEdTYUIzTHhMWGdLS211OTRXVE5vZjh2eHlxS0Yxb0ZBMlZkNHFsTE9jYy93N1k4RkRHaFJmcDFMYW89IiwicyI6Ii82bTJQa3dINHl3RE15czJnK3k3Rnc9PSIsImkiOiJGdjRINVpsR0wwVjhxQ1lHIn0=) |
 |    8[B]    |  Oct 25  |       Application Architecture        | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiaWZ5TXVjc1FYZUhzbDFCUG1WS2o3cGJPenZWNVFOa3J1NHZKUS81Y3hzZ0xsb1lzVjJIN1NkUXhoanVVbWZTSEJhL3NIRG9qSjdpOHI2d3p6by94UTZNOTN4Z1FIM3dSajYzdklQTEEyRnVEVklGd3ZPQnRPc28yNXB5bko5MHZ0Q0pCOEcvRzlvaXFTd3NSZFkvTlVyTHp0T289IiwicyI6Ik5pK0I4K3JRRXN4VVpaT3JES2VIaFE9PSIsImkiOiJDVkd1b2w1TnZsMWZmZmhqIn0=) |
 |    9[A]    |  Oct 30  |       Midterm        | - |
-|    9[B]    |  Nov 1  |       CI/CD        | Slides |
-<!-- add e to # -->
+|    9[B]    |  Nov 1  |       Github Features | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiei9paXBiQkJscVNLcDBhVjF3bjFWZzlvOUJKZC9rUUd2Q3FZMnhLNmJCSGhqUkZOeXBmWGZWcFZpdE9FNDFha1MrQzRCMGhyaDJiQ2c5Y3lnTEViclk0cW01ZVk0ZVhjM1JyWGxIQWJGNXdaM24rSmVmdWQ0a2NJbjNGYjllc0MwM3RJOWNHbURvNHVkUU9jZUYybUVUN29JcU09IiwicyI6IlFoYXpSZVBSdTVzK2hEOGpLK0lIYkE9PSIsImkiOiJOUUF1TmVTTlhMc21VSVduIn0=) |
+|    10[A]    |  Nov 6  |       CI/CD          | - |
+|    10[B]    |  Nov 8  |       Code Testing   | - |
+|    11[A]    |  Nov 13  |       Holiday       | No Class |
+|    11[B]    |  Nov 15  |       Quiz          | - |
+|    12[B]    |  Nov 20  |  Guest Speakers     | - |
+|    12[A]    |  Nov 22  |       Documentation | - |
+|    13[A]    |  Nov 27  | Project Presentations  | - |
+|    13[B]    |  Nov 29  | Project Presentations  | - |
+|    13[A]    |  Dec 4   | Project Presentations  | - |
