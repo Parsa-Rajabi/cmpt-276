@@ -1,6 +1,6 @@
 | **Team Member**          | **Pronounce as** | **Slack** | **Email**                        | **Office Hour (PST)** | **Location**                                                                   | **Zoom Details**                     |
 | ------------------------ | ---------------- | --------- | -------------------------------- | --------------------- | ------------------------------------------------------------------------------ | ------------------------------------ |
-| Parsa Rajabi; Instructor | pa-r-sa          | @parsa    | parsa_r [at] sfu [dot] ca        | Mondays, 11:30-12:30  | SYRE 5127                                                                      | -                                    |
+| Parsa Rajabi; Instructor | pa-r-sa          | @parsa    | parsa_r [at] sfu [dot] ca        | Mondays, 10:30-11:30  | SYRE 5127                                                                      | -                                    |
 | Sha Hu; TA               | sh-a             | @sha hu   | hushah [at] sfu [dot] ca         | Thursdays, 12:30-1:30 | [Zoom](https://sfu.zoom.us/j/86371767803?pwd=anlvMEo4OUoyd050QzJONWtjMXVydz09) | ID:`86371767803`; Password: `276276` |
 | Shubham Bhatia; TA       | shoe-b-ham       | @shubham  | shubham_bhatia [at] sfu [dot] ca | Wednesdays, 12-1      | [Zoom](https://sfu.zoom.us/j/8507866599?pwd=ajJrUDVOaEJEY2hXMXdQMVhyeTg5Zz09)  | ID:`8507866599`; Password: `276276`  |
 
