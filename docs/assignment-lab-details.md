@@ -14,8 +14,7 @@ This the tentative schedule for all course assignments and labs, which is subjec
 |     A1     | Sept. 19 | [Accept A1 on Github](https://classroom.github.com/a/2d3oYpDa) |
 |     A2     |  Oct. 3  | [Accept A2 on Github](https://classroom.github.com/a/ro6jLVJG) |
 |     -      |    -     |                               -                                |
-|     A3     | Oct. 24  |                                                                |
-|     A4     |  Nov. 7  |                                                                |
+|     A3     | Nov. 21  | [Accept A3 on Github](https://classroom.github.com/a/yk_XUkky) |
 
 ## Labs
 
@@ -25,12 +24,9 @@ This the tentative schedule for all course assignments and labs, which is subjec
 | Lab 1 | Sept. 21 | [Accept L1 on Github](https://classroom.github.com/a/i0Z2nu-q) |
 | Lab 2 | Sept. 28 | [Accept L2 on Github](https://classroom.github.com/a/DocP1R7u) |
 | Lab 3 | Oct. 31  | [Accept L3 on Github](https://classroom.github.com/a/yqX5nhHW) |
-| Lab 4 |          |                                                                |
+| Lab 4 | Nov. 14  | [Accept L4 on Github](https://classroom.github.com/a/GVC45jWn) |
 | Lab 5 |          |                                                                |
-| Lab 6 |          |                                                                |
-| Lab 7 |          |                                                                |
-| Lab 8 |          |                                                                |
-| Lab 9 |          |                                                                |
+
 
 ## Submission
 
