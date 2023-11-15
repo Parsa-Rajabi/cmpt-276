@@ -25,7 +25,7 @@ This the tentative schedule for all course assignments and labs, which is subjec
 | Lab 2 | Sept. 28 | [Accept L2 on Github](https://classroom.github.com/a/DocP1R7u) |
 | Lab 3 | Oct. 31  | [Accept L3 on Github](https://classroom.github.com/a/yqX5nhHW) |
 | Lab 4 | Nov. 14  | [Accept L4 on Github](https://classroom.github.com/a/GVC45jWn) |
-| Lab 5 |          |                                                                |
+| Lab 5 | Nov.  23 | [Accept L5 on Github](https://classroom.github.com/a/U3bjzdw1) |
 
 
 ## Submission
