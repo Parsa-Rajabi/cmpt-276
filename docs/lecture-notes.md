@@ -24,8 +24,8 @@ _Note: All lecture slides are password protected. Visit Canvas to get the passwo
 |    10[B]    |  Nov 8  |       Code Testing   | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiNDljM1BWSHBMd2Fxd3g3akNJV1hJdU1yUjdOYkJVTkZFVTE4TVBEL2p2V24wVnpzOUhwRk00UXh3cTFLTlJ5MWJ1cGZtUm42Vk5sTEtaaUpKTkJKd2lMbmhiZnNjekRxbkVFaGlFbVRGNGdCb3VnSFU4Mlk4YWM1cTNZWmliK2N3RmZiU0RQNWt0WEhyNGdXYVIyd2JaOEdwd0k9IiwicyI6InR5b3hBNzBjRURnMEVOVFE0VXFIU3c9PSIsImkiOiJXN2dyZU1Ra2M5NnZ1QW9QIn0=) |
 |    11[A]    |  Nov 13  |       Holiday       | No Class |
 |    11[B]    |  Nov 15  |       Quiz          | - |
-<!-- |    12[A]    |  Nov 20  |  Guest Speakers     | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiczlSS3NrS2pDRDhDN2lZY3I3Y2VYQ3hudEEyTTl5Rm9RRnZPT2IveXJmVmhFSEN0Q2M5Y1ZCUlFXTmJyckR1Y0Y0Z1NuUy80ZlVVK29aaTgzTE9WczZDUytWVi9rRksyeEdEcE0veVQ5T1VPSjExK3RsOWZ1em1abjUwU1A4Y3hIQ0RGNVdwZzZodzVEcDZ2VjFybnp2NGl6V3c9IiwicyI6InFndzlLNXFCTTFqYk80YnhoNDJPVHc9PSIsImkiOiJCeXFvZy9hZWgzaWc0eThCIn0=) |
+|    12[A]    |  Nov 20  |  Guest Speakers     | [Recording](https://bit.ly/276-guest-speaker-recording) |
 |    12[B]    |  Nov 22  |       Documentation | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoidzNhZXdkUEQ2T0xYSlV5VXh4UW5Qb0lCbXZiY2xqQnBJbXA1aCtXR0FxWXdSZ1dKM2JSZk9RWGNGZU9TL3Z4QUFNTEpTZ1owbVliWGJuekNrT0gzZ0VEV3gzMngyT0JZOTlmZnJvS3VFRzdic3hOWTR6MmRnLzdVR2ZNMnZQV21hS2pvU3dyaE9uQ0lOUGNneEVkS1NsdUtBL1U9IiwicyI6IjB1UFdxYVE0TDRsUnZONkZXMTZVNGc9PSIsImkiOiJnUFA4RW5nMlJNY2U4NmNFIn0=) |
-|    13[A]    |  Nov 27  | Project Presentations  | - |
-|    13[B]    |  Nov 29  | Project Presentations  | - |
-|    13[A]    |  Dec 4   | Project Presentations  | - | -->
+|    13[A]    |  Nov 27  | Project Presentations A | - |
+|    13[B]    |  Nov 29  | Project Presentations B | - |
+|    13[A]    |  Dec 4   | Project Presentations C | - |
